@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zeemart", "zeemart\zeemart.csproj", "{B6001442-7CC7-4F86-83DC-6EFC26C850DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6001442-7CC7-4F86-83DC-6EFC26C850DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6001442-7CC7-4F86-83DC-6EFC26C850DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6001442-7CC7-4F86-83DC-6EFC26C850DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6001442-7CC7-4F86-83DC-6EFC26C850DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E5C0F62-384F-4043-9B68-F0B33A0F7455}
+	EndGlobalSection
+EndGlobal
